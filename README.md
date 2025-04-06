@@ -1,2 +1,2 @@
-# Student-Web-Services-REST-API
+# student-web-services
 Student Web Services is a REST API
